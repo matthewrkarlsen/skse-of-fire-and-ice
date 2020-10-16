@@ -1,0 +1,55 @@
+
+Mod Name: Of Fire and Ice: Variegated Dragon Equipment
+
+Version: 0.1.1
+
+Author: Matthew R. Karlsen (quixoticynic)
+
+Q. What does "Of Fire and Ice" actually do?
+
+Dragons drop type-specific bones and scales, allowing you to produce different dragon-based equipment depending on the dragons you slay.
+
+Armor created includes fire and frost resistances (and weaknesses) depending on the dragon the bones and scales orginated from.
+
+Currently the mod does not affect Dragonborn or Dawnguard dragons -- I can easily update the mod to include these dragons if there is sufficient interest.
+
+Sought: A collaboration with a texture artist to create a variegated appearance for the different pieces of equipment.
+
+Q. Is this mod compatible with other mods?
+
+The mod should be compatible with most mods. I have modified the items that the dragons drop on their death -- if there is a conflict it will be at this point. I would suggest reading the description of the other mod or talking with the author to find out if a conflict will occur.
+
+Q. Where does this mod need to be in my load order?
+
+Pretty much anywhere in your load order, unless you have mods that alter what the dragons drop, or the 'recipes' for the pieces of dragon armor.
+
+Q. Where do I put the file if I choose to install manually?
+
+Place the .esp file in your Skyrim Data directory, such as "C:\Program Files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\". The .pex script file should go under "C:\Program Files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\Scripts\"
+
+Q. Can I suggest improving the mod by doing x, y, or z?
+
+I would be interested in any suggestions. Please contact me via nexusmods.com, or e-mail me using the address firstname@lastname.me.uk (using my first and last names).
+
+Q. Can I report a bug?
+
+The mod has been tested properly. However, some small bugs may remain. If you do experience problems then please contact me via nexusmods.com, or e-mail me using the address firstname@lastname.me.uk (using my first and last names).
+
+Q. Do you have any other mods?
+
+Yes, however, most are currently not converted to SSE. Guards Use Vanilla Open Helms (http://www.nexusmods.com/skyrimspecialedition/mods/6852/) has currently been ported to SSE.
+
+License:
+
+Formally, the mod is released under the BSD 2-Clause License:
+
+Copyright (c) 2014-2016, Matthew R. Karlsen (quixoticynic)
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
