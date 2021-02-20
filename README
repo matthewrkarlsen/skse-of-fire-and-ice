@@ -3,7 +3,7 @@ Mod Name: Of Fire and Ice: Variegated Dragon Equipment
 
 Version: 0.1.1
 
-Author: Matthew R. Karlsen (quixoticynic)
+Author: Matthew R. Karlsen
 
 Q. What does "Of Fire and Ice" actually do?
 
@@ -29,11 +29,11 @@ Place the .esp file in your Skyrim Data directory, such as "C:\Program Files (x8
 
 Q. Can I suggest improving the mod by doing x, y, or z?
 
-I would be interested in any suggestions. Please contact me via nexusmods.com, or e-mail me using the address firstname@lastname.me.uk (using my first and last names).
+I would be interested in any suggestions. Please contact me via a GitHub issue.
 
 Q. Can I report a bug?
 
-The mod has been tested properly. However, some small bugs may remain. If you do experience problems then please contact me via nexusmods.com, or e-mail me using the address firstname@lastname.me.uk (using my first and last names).
+The mod has been tested properly. However, some small bugs may remain. If you do experience problems then please contact me via a GitHub issue.
 
 Q. Do you have any other mods?
 
@@ -41,9 +41,10 @@ Yes, however, most are currently not converted to SSE. Guards Use Vanilla Open H
 
 License:
 
-Formally, the mod is released under the BSD 2-Clause License:
+The .esp file contains data that belongs to the game's creators and is supplied under their particular license.
+The changes specific to this mod, made by the mod authors, are released under the BSD 2-Clause License below:
 
-Copyright (c) 2014-2016, Matthew R. Karlsen (quixoticynic)
+Copyright (c) 2014-2016, Matthew R. Karlsen
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
